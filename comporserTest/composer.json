@@ -1,0 +1,12 @@
+{
+    "name": "mika/comporser-test",
+    "authors": [
+        {
+            "name": "mika",
+            "email": "micaela.legui@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.0"
+    }
+}
