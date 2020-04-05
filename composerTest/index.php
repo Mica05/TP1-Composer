@@ -1,4 +1,6 @@
-<?php   
+<?php
+
+require_once "clases/continente.php";
 
 require_once __DIR__ . '\vendor\autoload.php';
 
@@ -8,7 +10,10 @@ $restCountries = new RestCountries;
 
 $paises = $restCountries->all();
 
-echo json_encode($paises);
+$region = $restCountries->byRegion("asia");
+
+// echo json_encode($paises);
+echo json_encode($region);
 
 // use Monolog\Logger;
 // use Monolog\Handler\StreamHandler;
