@@ -43,13 +43,6 @@ class Pais extends Mapa implements IServicio
         foreach($currencies as $aux)
           echo $aux->symbol ."<br>";
         
-        //  echo "<br> OtherAcronyms: ";
-
-        //  echo json_encode($regionalBlocs);
-
-        //  foreach($regionalBlocs as $value)
-        //      echo $value->name . "<br>";
-        
         echo "</br></br>";
     }
 
