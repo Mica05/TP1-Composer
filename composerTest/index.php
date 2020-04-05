@@ -18,9 +18,9 @@ $continente->paisesPorContinente($continente->_datos);
 $region = new Region("Western Asia");
 $region->obtenerSubregion($region->_datos);
 
-$pais= new Pais("Argentina");
+$pais = new Pais("Argentina");
 
-$pais->TraerTodo($pais->_datos);
+Pais::TraerTodo($pais->_datos);
 
 $pais->traerPaisPorCapital($pais->_datos);
 

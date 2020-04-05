@@ -6,7 +6,7 @@ use NNV\RestCountries;
 
 class Pais extends Mapa implements IServicio
 {
-    public function TraerTodo($name)
+    public static function TraerTodo($name)
     {
         $restCountries = new RestCountries;
         $detalle = $restCountries->byName($name, true);

@@ -10,12 +10,6 @@ class Mapa
         $this->_datos= $datos;
        
     }   
-
-    /*public function toString()
-    {
-        return 
-    }*/
-
 }
 
 
