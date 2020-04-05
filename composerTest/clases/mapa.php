@@ -2,14 +2,13 @@
 
 class Mapa
 {
-    public $_continente;
-    public $_pais;
+    public $_datos;
 
-    public function __construct($continete , $pais)
+
+    public function __construct($datos)
     { 
-        $this->_continente= $continete;
-        $this->_pais= $pais;
-
+        $this->_datos= $datos;
+       
     }   
 
     /*public function toString()
