@@ -16,4 +16,6 @@ El paquete de países que vimos en clase es namnv609/php-rest-countries.
 
 Se puede utilizar cualquier paquete si se respeta la consigna.
 
-> Profesor Mario Rampi
+> Profesor: Mario Rampi
+
+> Alumna: Micaela Liguizamon
