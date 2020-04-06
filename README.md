@@ -1,5 +1,9 @@
 # TP 1 - Laboratorio III
 
+![alt text][logo]
+
+[logo] : https://image.flaticon.com/icons/png/512/919/919840.png "image Composer"
+
 ### Consigna
 
 Crear una aplicación con composer que utilice una dependencia.
