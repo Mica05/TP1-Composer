@@ -18,4 +18,4 @@ Se puede utilizar cualquier paquete si se respeta la consigna.
 
 > Profesor: Mario Rampi
 
-> Alumna: Micaela Liguizamon
+> Alumna: Micaela Leguizamon
