@@ -1,7 +1,7 @@
 # TP 1 - Laboratorio III
 
 <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="composer" height="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="300" height="200">
-<img src="https://packagist.org/bundles/packagistweb/img/logo-small.png?v=1585322678" alt="packagis" width="200" height="200">
+<img src="https://packagist.org/bundles/packagistweb/img/logo-small.png?v=1585322678" alt="packagis" width="250" height="200">
 
 
 
