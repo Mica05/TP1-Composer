@@ -1,8 +1,17 @@
 # TP 1 - Laboratorio III
 
-![alt text][logo]
+<div class="row">
+  <div class="column">
+    <img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="composer" height="300">
+  </div>
+  <div class="column">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="300" height="200">
+  </div>
+  <div class="column">
+    <img src="https://packagist.org/bundles/packagistweb/img/logo-small.png?v=1585322678" alt="packagis" width="200" height="200">
+  </div>
+</div>
 
-[logo] : https://image.flaticon.com/icons/png/512/919/919840.png "image Composer"
 
 ### Consigna
 
